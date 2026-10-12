@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.exe
+releases/*.exe
+!releases/
+!releases/source_code.zip
+build/
